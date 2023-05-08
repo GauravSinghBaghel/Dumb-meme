@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+}
+.meme{
+  border: 1px bold yellow;
+  margin-top: 100px;
+  border: 1rem;
+
+}
+.meme{
+  color:white;
+  text-align: center;
+}
+h2{
+  text-transform: uppercase;
+  color: yellow
+}
+.lemon{
+  border: 5px solid yellow;
+  width: 45%;
+}
